@@ -1,9 +1,0 @@
-{
-    "editor.renderWhitespace": "all",
-
-    "workbench.colorCustomizations": {
-        "editorWhitespace.foreground": "#ffffffa2"
-    },
-
-    "editor.detectIndentation": true
-}
